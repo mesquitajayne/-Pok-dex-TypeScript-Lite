@@ -32,6 +32,12 @@ export class CatalogoPokemon {
         });
     }
 
+    buscarPorId(id: number): PokemonResumo | undefined {
+        return this.pokemons.find(
+            (pokemon) => pokemon.id === id
+        );
+    }
+
     remover(id: number): void {
         const existe = this.pokemons.some(
             (pokemon) => pokemon.id === id
