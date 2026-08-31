@@ -174,7 +174,7 @@ Kanban
 
 Link do quadro Kanban:
 
-«Adicionar aqui o link do quadro Kanban utilizado no projeto.»
+https://github.com/users/mesquitajayne/projects/1/views/1
 
 Branches utilizadas
 
