@@ -198,3 +198,7 @@ Também foi realizada a verificação de compilação utilizando:
 npm run build
 
 A compilação foi concluída sem erros.
+
+## Status do projeto
+
+Projeto concluído e testado.
